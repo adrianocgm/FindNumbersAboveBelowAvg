@@ -1,0 +1,15 @@
+C:\dev\FindNumbersAboveBelowAvg\bin\Debug\net7.0\FindNumbersAboveBelowAvg.exe
+C:\dev\FindNumbersAboveBelowAvg\bin\Debug\net7.0\FindNumbersAboveBelowAvg.deps.json
+C:\dev\FindNumbersAboveBelowAvg\bin\Debug\net7.0\FindNumbersAboveBelowAvg.runtimeconfig.json
+C:\dev\FindNumbersAboveBelowAvg\bin\Debug\net7.0\FindNumbersAboveBelowAvg.dll
+C:\dev\FindNumbersAboveBelowAvg\bin\Debug\net7.0\FindNumbersAboveBelowAvg.pdb
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\FindNumbersAboveBelowAvg.csproj.AssemblyReference.cache
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\FindNumbersAboveBelowAvg.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\FindNumbersAboveBelowAvg.AssemblyInfoInputs.cache
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\FindNumbersAboveBelowAvg.AssemblyInfo.cs
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\FindNumbersAboveBelowAvg.csproj.CoreCompileInputs.cache
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\FindNumbersAboveBelowAvg.dll
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\refint\FindNumbersAboveBelowAvg.dll
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\FindNumbersAboveBelowAvg.pdb
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\FindNumbersAboveBelowAvg.genruntimeconfig.cache
+C:\dev\FindNumbersAboveBelowAvg\obj\Debug\net7.0\ref\FindNumbersAboveBelowAvg.dll
